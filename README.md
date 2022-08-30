@@ -1,13 +1,23 @@
 # Fazzexpress
+
  THis a Courier Management and tracking system built with Core PHP OOP concepts.
+
 Delivery & logistics service system
+
 FEATURES
+
 Admin
+
 Parcel Tracking system
+
 Company Website 
+
 Branch management
+
 Staff management
+
 Delivery Management  system, 
+
 Highly customizable….
 
 
