@@ -18,7 +18,7 @@ Staff management
 
 Delivery Management  system, 
 
-Highly customizable….
+Highly customizable
 
 
 
